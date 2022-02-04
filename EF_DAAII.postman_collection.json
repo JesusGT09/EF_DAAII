@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "113ff7f3-3993-4bf3-8a7d-797f44841cba",
+		"name": "EF_DAAII",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8086/sistema/clientes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8086/sistema/clientes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8086",
+					"path": [
+						"sistema",
+						"clientes"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
